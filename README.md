@@ -14,7 +14,7 @@ Mangafox Reader is an android app that helps you search and read thousands of ma
 Android 4.0 or higher.
 
 ## APK Download
-[Direct download](http://cylonu87.weebly.com/mangafox-reader.html)
+[Direct download](https://github.com/cylonu87/MFR/releases)
 
 [](ic_launcher-web.png)
 
